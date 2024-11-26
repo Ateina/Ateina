@@ -1,5 +1,3 @@
-## Hi there 👋
-
 Hi there! 👋 I'm a SharePoint Developer with a passion for building impactful solutions using SPFx and the Power Platform.
 
 - 🌱 I’m currently learning Power Platform
