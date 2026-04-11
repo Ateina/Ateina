@@ -5,6 +5,5 @@ Hi there! 👋 I'm a M365 Developer working with SPFx, Power Platform, and every
 - 😭 I’m looking for help with Dataverse
 - 💬 Ask me about SPFx, Sharepoint, Power Automate, Microsoft certification
 - 👩‍💼 LinkedIn profile: [LinkedIn](https://www.linkedin.com/in/antanina-druzhkina/)
-- 📫 How to reach me: antanina.druzhkina@gmail.com
 - 📝 Blog: [M365 Scribbles](https://m365scribbles.com/powerpages-webtemplate/)
 - 🌟 Favorite things: my cat, tea (Earl Grey and green with soursop), True Crime and cult podcasts
